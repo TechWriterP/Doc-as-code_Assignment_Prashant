@@ -6,7 +6,7 @@ author: Prashant
 
 ### This page is written by {{page.author}}
 
-{% include subPage.txt %}
+![Page 2](./page 2)
 
 # Heading 1 sample
 
