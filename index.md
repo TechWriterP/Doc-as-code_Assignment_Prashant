@@ -1,6 +1,6 @@
 ---
 title: Assignment by Prashant
-layouts: HTML_Template.html
+layout: HTML_Template
 author: Prashant
 ---
 
