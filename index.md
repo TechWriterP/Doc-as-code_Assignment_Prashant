@@ -16,6 +16,8 @@ Above line shows an example of **Heading 1**
 
 Above line shows an example of *Heading 2*
 
+{% include sampleText.txt %}
+
 Below is the sample of a *unordered list*:
 
 * Item 1
