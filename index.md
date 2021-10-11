@@ -6,7 +6,7 @@ author: Prashant
 
 ### This page is written by {{page.author}}
 
-[Page 2](./page2.md)
+[Page 2](https://github.com/TechWriterP/Doc-as-code_Assignment_Prashant/blob/main/Page2.md)
 
 # Heading 1 sample
 
