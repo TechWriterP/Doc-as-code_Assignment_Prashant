@@ -5,7 +5,6 @@ author: Prashant
 ---
 
 | [Page 2](./web_pages/Page2.html) | [IBM Page](./web_pages/IBM_page.md) | [Titanic](./web_pages/titanic.md) |
-|---|---|---|
 
 ### This page is written by {{page.author}}
 
