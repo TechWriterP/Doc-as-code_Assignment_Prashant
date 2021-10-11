@@ -10,6 +10,8 @@ author: Prashant
 
 [IBM Page](./web_pages/IBM_page.md)
 
+[titanic](./web_pages/titanic.md)
+
 # Heading 1 sample
 
 Above line shows an example of **Heading 1**
