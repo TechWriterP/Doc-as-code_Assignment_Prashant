@@ -1,3 +1,6 @@
+
+| [Home Page](./index.md) | [Page 2](./web_pages/Page2.html) | [Titanic](./web_pages/titanic.md) |
+
 ## Step 5: Manage your invoices and payment methods
 
 Before you start working with resources in your account, familiarize yourself with where you can manage your payment method and access your invoices.
