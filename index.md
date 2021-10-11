@@ -6,9 +6,9 @@ author: Prashant
 
 ### This page is written by {{page.author}}
 
-[Page 2](./Page2.html)
+[Page 2](./web_pages/Page2.html)
 
-[IBM Page](./IBM_Page.md)
+[IBM Page](./web_pages/IBM_page.md)
 
 # Heading 1 sample
 
