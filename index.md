@@ -10,7 +10,7 @@ author: Prashant
 
 [IBM Page](./web_pages/IBM_page.md)
 
-[titanic](./web_pages/titanic.md)
+[Titanic](./web_pages/titanic.md)
 
 # Heading 1 sample
 
