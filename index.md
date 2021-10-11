@@ -42,7 +42,7 @@ Below is the for loop example with Liquid `syntax'
 **Name** - **Place**
 
 {% for item in site.data.practice_data %}
-{{item.Name}}-{{item.Place}}
+{{item.Name}} - {{item.Place}}
 {% endfor %}
 
 You can embedd an image using `image syntax`
