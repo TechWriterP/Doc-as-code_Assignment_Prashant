@@ -39,7 +39,8 @@ Following are the sample for `steps`.
 
 Below is the for loop example with Liquid `syntax'
 
-**Name** - **Place** 
+**Name** - **Place**
+
 {% for item in site.data.practice_data %}
 {{item.Name}}-{{item.Place}}
 
