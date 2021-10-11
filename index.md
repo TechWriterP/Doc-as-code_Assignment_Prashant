@@ -37,7 +37,7 @@ Following are the sample for `steps`.
 2. Step 2
 3. Step 3
 
-{% site.data.dataText.txt %}
+{% site.data.dataText %}
 
 You can embedd an image using below `syntax`
 
