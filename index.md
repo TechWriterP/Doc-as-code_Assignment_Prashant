@@ -37,8 +37,13 @@ Following are the sample for `steps`.
 2. Step 2
 3. Step 3
 
-{% site.data.dataText %}
+Below is the for loop example with Liquid `syntax'
 
-You can embedd an image using below `syntax`
+**Name** - **Place** 
+{% for item in site.data.practice_data %}
+{{item.Name}}-{{item.Place}}
+
+
+You can embedd an image using `image syntax`
 
 ![Sample Image](https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg)
