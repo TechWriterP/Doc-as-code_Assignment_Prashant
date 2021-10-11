@@ -1,10 +1,12 @@
 ---
 title: Assignment by Prashant
-layout: demo_template
+layout: HTML_Template
 author: Prashant
 ---
 
 ### This page is written by {{page.author}}
+
+{% include subPage.txt %}
 
 # Heading 1 sample
 
